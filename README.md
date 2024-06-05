@@ -54,3 +54,8 @@ Funkce `recievedNum()` převádí IR kódy na odpovídající číslice.
    - Pokud hodnota intenzity přesáhne 255, bude omezena na 255, aby se předešlo přetečení.
 
 Dodržováním těchto pokynů můžete ovládat barvu a jas RGB LED pomocí IR dálkového ovladače a Arduina.
+
+
+
+
+🧡🧡🧡chatgpt🧡🧡🧡
